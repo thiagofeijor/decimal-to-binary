@@ -1,0 +1,1 @@
+console.log(parseInt(process.env.VALUE, 10).toString(2))
